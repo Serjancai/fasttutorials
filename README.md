@@ -1,4 +1,4 @@
-html> 
+<html> 
 <head> 
 
 <title>fast tutorials</title>
